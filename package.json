@@ -1,0 +1,25 @@
+{
+  "name": "js.sqlite.to.mongodb",
+  "version": "1.0.0",
+  "description": "Js Sqlite to MongoDB",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinanselvi/Js.Sqlite.to.MongoDB.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sinanselvi/Js.Sqlite.to.MongoDB/issues"
+  },
+  "homepage": "https://github.com/sinanselvi/Js.Sqlite.to.MongoDB#readme",
+  "dependencies": {
+    "mongodb": "^6.1.0",
+    "sqlite3": "^5.1.6"
+  }
+}
